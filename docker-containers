@@ -1,0 +1,4 @@
+docker containers are the running instances of docker images 
+  docker container uses overlay file system
+  1) write layer(container layers) containers can write its specific data here.
+  2) image layers are specific/fixed to every container.
